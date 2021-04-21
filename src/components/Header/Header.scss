@@ -1,0 +1,24 @@
+@import "../../Styles/Shared/Color.scss";
+@import '../../Styles/Shared/Font.scss';
+
+.firstBox{
+    border: 2px solid $base-color;
+    color: $even-color;
+    margin:5%;
+    font-size: $large-font;
+}
+.secondBox{
+    border: 2px solid $border-dark;
+    color: $odd-color;
+    margin:5%;
+}
+.thirdBox{
+    border: 2px solid $base-color;
+    color: $even-color;
+    margin:5%;
+}
+.fourthBox{
+    border: 2px solid $border-dark;
+    color: $odd-color;
+    margin:5%;
+}
